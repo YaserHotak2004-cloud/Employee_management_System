@@ -1,0 +1,17 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*~
+
+# Logs & temp
+*.log
+_roletest.php
+*.tmp
+
+# Local environment overrides
+.env
+config.local.php
