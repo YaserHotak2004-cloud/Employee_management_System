@@ -29,7 +29,7 @@ A web-based Employee Management System developed using PHP and MySQL. The applic
 - MySQL / MariaDB
 - HTML
 - Tailwind CSS v4
-- JavaScript
+
 - XAMPP
 
 ## Requirements
